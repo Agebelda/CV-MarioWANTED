@@ -26,7 +26,7 @@ El objetivo es detectar en tiempo real la cara buscada dentro de un conjunto de 
 
 ## Ejecución
 
-### Versión Final (tiempo real con emulador)
+### Versión Final
 ```bash
 git clone https://github.com/tuusuario/wanted-vision.git
 cd wanted-vision
