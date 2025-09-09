@@ -61,5 +61,4 @@ Para detener la ejecución:
 - Daniel Burgos Espinar  
 - Alejandro Gea Belda
 
-Estudiantes del Grado en Ingeniería Robótica
-Universidad de Alicante
+Estudiantes del Grado en Ingeniería Robótica de la Universidad de Alicante
