@@ -51,8 +51,6 @@ Para detener la ejecución:
 - **Versión 2:** SIFT + BFMatcher → detecciones más rápidas y robustas, incluso con solapamientos.  
 - **Versión Final:** Integración en tiempo real con PyAutoGUI, alcanzando niveles avanzados en el minijuego.  
 
-Ejemplo de detección:  
-
 [Ejemplo detección](https://drive.google.com/file/d/1a6yYK_s6JROzloKP87mlKnbLAB-5CZV7/view?usp=sharing)
 
 ---
