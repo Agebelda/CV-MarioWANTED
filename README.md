@@ -53,7 +53,7 @@ Para detener la ejecución:
 
 Ejemplo de detección:  
 
-![Ejemplo detección](https://drive.google.com/file/d/1a6yYK_s6JROzloKP87mlKnbLAB-5CZV7/view?usp=sharing)
+[Ejemplo detección](https://drive.google.com/file/d/1a6yYK_s6JROzloKP87mlKnbLAB-5CZV7/view?usp=sharing)
 
 ---
 
