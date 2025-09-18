@@ -16,7 +16,7 @@ El objetivo es detectar en tiempo real la cara buscada dentro de un conjunto de 
 ---
 
 ## Tecnologías utilizadas
-- **Python 3**
+- ![Python](https://img.shields.io/badge/python-3.10-blue.svg)
 - [OpenCV](https://opencv.org/) → Procesamiento de imágenes (SIFT, ORB, thresholding…)
 - [NumPy](https://numpy.org/) → Operaciones matriciales
 - [PyAutoGUI](https://pyautogui.readthedocs.io/) → Control del ratón y capturas de pantalla
