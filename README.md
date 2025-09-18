@@ -1,5 +1,9 @@
 # Wanted Vision – Visión por Computador para resolver el minijuego *Wanted!*
 
+![Python](https://img.shields.io/badge/python-3.10-blue.svg)
+![OpenCV](https://img.shields.io/badge/opencv-4.x-green.svg)
+![License: GPL v3](https://img.shields.io/badge/license-GPLv3-orange.svg)
+
 Proyecto universitario de visión por computador para resolver el minijuego **Wanted** de *New Super Mario Bros (Nintendo DS)*.  
 El objetivo es detectar en tiempo real la cara buscada dentro de un conjunto de personajes, automatizando la resolución del juego mediante técnicas de procesamiento de imágenes.
 
@@ -16,7 +20,7 @@ El objetivo es detectar en tiempo real la cara buscada dentro de un conjunto de 
 ---
 
 ## Tecnologías utilizadas
-- ![Python](https://img.shields.io/badge/python-3.10-blue.svg)
+- [Python](https://www.python.org/)
 - [OpenCV](https://opencv.org/) → Procesamiento de imágenes (SIFT, ORB, thresholding…)
 - [NumPy](https://numpy.org/) → Operaciones matriciales
 - [PyAutoGUI](https://pyautogui.readthedocs.io/) → Control del ratón y capturas de pantalla
