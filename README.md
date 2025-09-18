@@ -2,6 +2,8 @@
 
 ![Python](https://img.shields.io/badge/python-3.10-blue.svg)
 ![OpenCV](https://img.shields.io/badge/opencv-4.x-green.svg)
+![NumPy](https://img.shields.io/badge/numpy-✔-lightblue.svg)
+![PyAutoGUI](https://img.shields.io/badge/PyAutoGUI-✔-yellow.svg)
 ![License: GPL v3](https://img.shields.io/badge/license-GPLv3-orange.svg)
 
 Proyecto universitario de visión por computador para resolver el minijuego **Wanted** de *New Super Mario Bros (Nintendo DS)*.  
